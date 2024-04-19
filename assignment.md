@@ -1,6 +1,6 @@
 ## Content for Completed Assignment
 
-### What is the difference between push, pull, and fetch?
+### Using <code>push</code>, <code>pull</code>, <code>fetch</code>, and <code>merge</code>
 
 - `git push` - sent changes from a local branch to a remote repo
 - `git fetch` - get changes from a remote repo into your tracking branch
