@@ -4,10 +4,10 @@
 
 Transfer file changes/updates between your local workspace and a remote repository with the following commands:
 
-- **`git push`** – updates the remote repository with changes from your local or tracking branch
-- **`git pull`** – retrieves changes from one branch and merges them into the current branch
-- **`git fetch`** – imports the latest updates in a remote repository to your tracking branch
-- **`git merge`** – combines specified changes from the tracking branch into the remote branch
+- [**`git push`**](https://git-scm.com/docs/git-push) – updates the remote repository with changes from your local or tracking branch
+- [**`git pull`**](https://git-scm.com/docs/git-pull) – retrieves changes from one branch and merges them into the current branch
+- [**`git fetch`**](https://git-scm.com/docs/git-fetch) – imports the latest updates in a remote repository to your tracking branch
+- [**`git merge`**](https://git-scm.com/docs/git-merge) – combines specified changes from the tracking branch into the remote branch
 
 > **Note**: A tracking branch is a local branch that has a direct origin/master relationship with a remote branch. When you use the commands listed above on a tracking branch, Git automatically knows from where to fetch and the target to merge it with.
 
